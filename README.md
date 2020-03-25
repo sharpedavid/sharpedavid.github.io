@@ -1,1 +1,1 @@
-_Real_ developers have custom domains.
+_Real_ programmers have custom domains.
